@@ -7,7 +7,7 @@ $$
 \left.\begin{aligned}
 \theta{} &= {t_1/x_1....t_n/x_n}  \\
 \lambda{} &= {u_1/y_1....u_n/y_n}
-\end{aligned}\right\}\to{\{\lambda}\{{t_1/x_1....t_n/x_n\},\{u_1/y_1....u_n/y_n\}\}}
+\end{aligned}\right\} \to \lambda\left\{\{{t_1/x_1....t_n/x_n}\},{u_1/y_1....u_n/y_n}\right\}
 $$
 
 $x^{2}$ 
